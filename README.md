@@ -6,4 +6,7 @@ Result: ten recommendations for users
 
 Screenshots of creating step in EMR and submitting this job using script-runner provided by AWS.
 
-https://cloud.githubusercontent.com/assets/15006855/21301227/a4fc0bfe-c579-11e6-87a8-e8524393ccf4.png
+
+![image](https://cloud.githubusercontent.com/assets/15006855/21301317/7b693ef0-c57a-11e6-8afa-f4e4018299d2.png)
+check the stdout:
+![image](https://cloud.githubusercontent.com/assets/15006855/21301227/a4fc0bfe-c579-11e6-87a8-e8524393ccf4.png)
